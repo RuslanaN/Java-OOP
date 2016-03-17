@@ -1,0 +1,10 @@
+Antonova       	Anna           	19	f	12346	ComputerScience	      3
+Borysenko      	Andrey         	21	m	12338	ComputerScience	      3
+Ivanov         	Ivan           	20	m	12337	ComputerScience	      3
+Ivashchenko    	Sergey         	20	m	12339	ComputerScience	      3
+Khmelnitsky    	Eugen          	20	m	12345	ComputerScience	      3
+Kovalenko      	Olena          	20	f	12343	ComputerScience	      3
+Onyshchenko    	Volodymyr      	20	m	12341	ComputerScience	      3
+Skvortsova     	Marina         	21	f	12340	ComputerScience	      3
+Stetsenko      	Dmytro         	19	m	12342	ComputerScience	      3
+Yaroshenko     	Oleksii        	21	m	12344	ComputerScience	      3
